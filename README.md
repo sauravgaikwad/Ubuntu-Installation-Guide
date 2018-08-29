@@ -1,5 +1,5 @@
 # Ubuntu-Installation-Guide
-Dual Booting guide
+Complete Installation Guide
 
 
 This is an ubuntu installation guide which will help you in installing ubuntu alongside windows.It counsists of detailed steps along with screenshots.It also provides solutions to the post installation problems like disappearance of GRUB,Wifi problems ,etc.
