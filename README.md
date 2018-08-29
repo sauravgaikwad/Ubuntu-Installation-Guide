@@ -11,4 +11,4 @@ It also counsists of setup for Rufus Software which is used to make the Pendrive
 Note-It doesn't contain ISO image of OS ,you have to download it from Internet
 
 For any queries contatct:
-enail:gaikwadsaurav12@gmail.com
+email:gaikwadsaurav12@gmail.com
